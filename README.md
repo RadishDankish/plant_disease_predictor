@@ -21,3 +21,7 @@ Flask
 Tailwind CSS
 Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 Gemini: For getting the code for UI and deploying the model
+
+
+Demo:
+https://youtu.be/8TmiVsv0C5A
