@@ -20,3 +20,4 @@ Deep Learning Framework: PyTorch
 Flask
 Tailwind CSS
 Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+Gemini: For getting the code for UI and deploying the model
