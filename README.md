@@ -19,3 +19,4 @@ Python
 Deep Learning Framework: PyTorch 
 Flask
 Tailwind CSS
+Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
